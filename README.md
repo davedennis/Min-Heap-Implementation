@@ -10,7 +10,7 @@
   - Run the test program. It test all the implmented methods about and makes sure that the results are within a resonable complexity.
   - Example output
   ```
-  (venv) C:\school\cs320\heapsRevistedPA3>heap_tests.py
+(venv) C:\school\cs320\heapsRevistedPA3>heap_tests.py
 #test_heapify
 Heapify length 1: True
 Heapify two out of order: True
