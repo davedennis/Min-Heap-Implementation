@@ -9,7 +9,7 @@
 ### How to run
   - Run the test program. It test all the implmented methods about and makes sure that the results are within a resonable complexity.
   - Example output
-  '''
+  ```
   (venv) C:\school\cs320\heapsRevistedPA3>heap_tests.py
 #test_heapify
 Heapify length 1: True
@@ -103,5 +103,4 @@ Counts for list of len: 100000
 buildHeap heapify calls within 20% of expected number of calls: True
 heapExtractMin heapify calls within 20% of expected number of calls: True
 heapInsert swap calls within 20% of expected number of calls: True
-
-  '''
+```
